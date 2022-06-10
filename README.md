@@ -46,7 +46,10 @@ In this documentation you will find (almost) everything you need to know about h
 
 ❤️ [Contributing guide]()
 
-![](img/sta.png)
+![](img/home-userguide.png)
+![](img/home-faq.png)
+![](img/home-techguide.png)
+![](img/home-contributing.png)
 
 <br>
 
@@ -54,7 +57,7 @@ In this documentation you will find (almost) everything you need to know about h
 
 <p align="center">
     
-<img src="img/68747470733a2f2f70656e706f742e6170702f696d616765732f6f70656e2d736f757263652e706e67.png" width="40%">
+![](img/sta.png)
 
 </p>
 
