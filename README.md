@@ -46,7 +46,7 @@ In this documentation you will find (almost) everything you need to know about h
 
 ❤️ [Contributing guide]()
 
-![](img/home-userguide.png)![](img/home-faq.png)![](img/home-techguide.png)![](img/home-contributing.png)
+![](img/sta.png)
 
 <br>
 
